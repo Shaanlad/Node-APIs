@@ -1,1 +1,1 @@
-Node based API including Express and Mongo
+NodeJS + Express and Mongo based boiler plate for APIs
